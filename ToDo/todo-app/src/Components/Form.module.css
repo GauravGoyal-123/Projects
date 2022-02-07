@@ -1,0 +1,11 @@
+.Form{
+    padding: 10px;
+    width: 320px;
+    height: 15px;
+    margin: 10px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 1.1rem;
+    border-radius: 10px;
+    color: #22223b;
+}

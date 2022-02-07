@@ -1,0 +1,27 @@
+.todo{
+    margin-bottom: 15px;
+    border-bottom: 2px solid black;
+}
+
+.text{
+    float: right;
+    padding: 5px;
+    font-size: 5 rem;
+    color: rgb(228, 66, 66);
+    margin-right: 5px;   
+}
+
+.text:hover{
+    cursor: pointer;
+}
+
+
+.box{
+    padding: 5px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.box:hover{
+    cursor: pointer;
+}

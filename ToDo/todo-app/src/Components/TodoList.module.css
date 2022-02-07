@@ -1,0 +1,9 @@
+.todolist{
+    list-style: none;
+    padding: 10px;
+    overflow-y: auto;
+    height: 250px;  
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
